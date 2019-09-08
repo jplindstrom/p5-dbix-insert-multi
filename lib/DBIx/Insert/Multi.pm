@@ -154,15 +154,37 @@ sub insert {
 
 
 
-=head1 LICENSE
+=head1 DEVELOPMENT
 
-Copyright (C) Johan Lindstrom.
+=head2 Author
 
-This library is free software; you can redistribute it and/or modify
+Johan Lindstrom, C<< <johanl [AT] cpan.org> >>
+
+
+=head2 Source code
+
+L<https://github.com/jplindstrom/p5-DBIx-Insert-Multi>
+
+
+=head2 Bug reports
+
+Please report any bugs or feature requests on GitHub:
+
+L<https://github.com/jplindstrom/p5-DBIx-Insert-Multi/issues>.
+
+
+
+=head1 COPYRIGHT & LICENSE
+
+Copyright 2019- Broadbean Technologies, All Rights Reserved.
+
+This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
-=head1 AUTHOR
 
-Johan Lindstrom E<lt>johanl@cpan.orgE<gt>
+
+=head1 ACKNOWLEDGEMENTS
+
+Thanks to Broadbean for providing time to open source this module.
 
 =cut
