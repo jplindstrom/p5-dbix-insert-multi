@@ -153,6 +153,15 @@ sub insert {
 1;
 
 
+=head1 SEE ALSO
+
+=head2 DBIx::Class
+
+If you already have a L<DBIx::Class> schema, you can bulk insert rows
+efficiently using the L<DBIx::Class::ResultSet/populate> method (note:
+in void context!). You won't get back the new ids.
+
+
 
 =head1 DEVELOPMENT
 
