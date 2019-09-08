@@ -1,6 +1,8 @@
 package DBIx::Insert::Multi;
 use 5.010000;
 
+our $VERSION = "0.001";
+
 use Moo;
 
 =head1 NAME
