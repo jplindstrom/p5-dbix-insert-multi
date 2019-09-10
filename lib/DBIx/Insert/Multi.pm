@@ -85,9 +85,13 @@ the first row or the last one. For instance:
 
 =over
 
-=item MySQL: first
+=item *
 
-=item Postgres: last
+MySQL: first
+
+=item *
+
+Postgres: last
 
 =back
 
