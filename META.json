@@ -70,7 +70,7 @@
          "web" : "https://github.com/jplindstrom/p5-dbix-insert-multi"
       }
    },
-   "version" : "0.001",
+   "version" : "0.002",
    "x_authority" : "cpan:JOHANL",
    "x_contributors" : [
       "Johan Lindstrom <johan.lindstrom@broadbean.com>"
