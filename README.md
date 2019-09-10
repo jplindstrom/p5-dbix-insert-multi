@@ -103,6 +103,14 @@ the column names, and the values are the column values).
 
 The return value not specified. If the query fails, die.
 
+# SEE ALSO
+
+## DBIx::Class
+
+If you already have a [DBIx::Class](https://metacpan.org/pod/DBIx::Class) schema, you can bulk insert rows
+efficiently using the ["populate" in DBIx::Class::ResultSet](https://metacpan.org/pod/DBIx::Class::ResultSet#populate) method (note:
+in void context!). You won't get back the new ids.
+
 # DEVELOPMENT
 
 ## Author
