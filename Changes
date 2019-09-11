@@ -2,6 +2,10 @@ Revision history for Perl extension DBIx-Insert-Multi
 
 {{$NEXT}}
 
+    - Fix #2: bad dependency declaration. Thanks to @manwar for the PR!
+
+
+
 0.002 2019-09-10T15:05:07Z
 
     - POD fixup
